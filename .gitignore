@@ -32,8 +32,7 @@ generated/
 temp/
 tmp/
 
-# Local images
-images/
+
 
 # Hugging Face cache
 .cache/
