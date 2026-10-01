@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# AI model files
+*.safetensors
+*.bin
+*.pth
+*.pt
+*.onnx
+
+# Local model directory
+models/
+
+# Generated files
+output/
+outputs/
+generated/
+temp/
+tmp/
+
+# Local images
+images/
+
+# Hugging Face cache
+.cache/
+huggingface_cache/

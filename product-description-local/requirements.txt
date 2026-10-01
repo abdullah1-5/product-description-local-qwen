@@ -1,0 +1,10 @@
+# Install PyTorch separately FIRST using the correct command for your
+# system (see README.md) - the plain "torch" below is a fallback only.
+torch>=2.6.0
+torchvision>=0.21.0
+
+transformers>=4.49.0,<6.0
+accelerate>=0.33.0,<2.0
+pillow>=10.0.0,<12.0
+qwen-vl-utils>=0.0.8,<0.1
+pydantic>=2.8.0,<3.0
